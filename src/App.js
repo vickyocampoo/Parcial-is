@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         > 
-         Parcial IS 3
+         Seguinos
          <img src={logoig} className="App-link img" alt=" " /> 
         </a>
       </header>
