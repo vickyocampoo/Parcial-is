@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         > 
-         comprar 
+         Seguinos 
          <img src={logoig} className="App-link img" alt=" " /> 
         </a>
       </header>
